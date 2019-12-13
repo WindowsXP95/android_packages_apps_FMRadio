@@ -51,11 +51,11 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.Toolbar;
 
-import com.android.fmradio.FmStation.Station;
-import com.android.fmradio.dialogs.FmFavoriteEditDialog;
-import com.android.fmradio.views.FmScroller;
-import com.android.fmradio.views.FmSnackBar;
-import com.android.fmradio.views.FmScroller.EventListener;
+import com.lineageos.fmradio.FmStation.Station;
+import com.lineageos.fmradio.dialogs.FmFavoriteEditDialog;
+import com.lineageos.fmradio.views.FmScroller;
+import com.lineageos.fmradio.views.FmSnackBar;
+import com.lineageos.fmradio.views.FmScroller.EventListener;
 
 import java.lang.reflect.Field;
 
